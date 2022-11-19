@@ -10,5 +10,3 @@ const sumAll = function (from, to) {
 };
 
 sumAll(10, 12);
-// Do not edit below this line
-module.exports = sumAll;
